@@ -1,0 +1,19 @@
+.img-photo{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;  
+  }
+  
+  .jumbo{
+     display: flex;
+  }
+
+  .profile{
+      margin-left: 20px;
+  }
+
+  .profile-name {
+      display: flex;
+      margin-left: 10px;
+    }
+
